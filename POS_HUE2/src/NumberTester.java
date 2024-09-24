@@ -1,13 +1,13 @@
 public class NumberTester {
     private NumberTest primeTester;
-    private numberTest oddTester;
+    private NumberTest oddTester;
     private NumberTest palindromeTester;
 
     public NumberTester(String fileName) {
 
     }
 
-    public void setOddEvenTester(numberTest oddTester) {
+    public void setOddEvenTester(NumberTest oddTester) {
         this.oddTester = oddTester;
     }
 
