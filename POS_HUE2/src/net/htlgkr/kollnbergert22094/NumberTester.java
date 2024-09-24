@@ -1,3 +1,5 @@
+package net.htlgkr.kollnbergert22094;
+
 public class NumberTester {
     private NumberTest primeTester;
     private NumberTest oddTester;

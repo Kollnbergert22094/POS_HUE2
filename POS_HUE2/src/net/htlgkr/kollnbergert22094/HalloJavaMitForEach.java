@@ -1,9 +1,11 @@
+package net.htlgkr.kollnbergert22094;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class HalloJavaMitForEach {
 
-    public static void main(String[] args) {
+    public void javaMitForEach() {
 
         List<String> stringList = new ArrayList<>();
 
