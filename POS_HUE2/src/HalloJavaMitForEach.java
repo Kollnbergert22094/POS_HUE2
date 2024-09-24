@@ -6,7 +6,7 @@ public class HalloJavaMitForEach {
     public static void main(String[] args) {
 
         List<String> stringList = new ArrayList<>();
-        
+
         stringList.add("Thorsten");
         stringList.add("Kollnberger");
 
