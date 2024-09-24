@@ -3,10 +3,10 @@ import java.util.List;
 
 public class HalloJavaMitForEach {
 
-    static List<String> stringList;
-
     public static void main(String[] args) {
-        stringList = new ArrayList<>();
+
+        List<String> stringList = new ArrayList<>();
+        
         stringList.add("Thorsten");
         stringList.add("Kollnberger");
 
