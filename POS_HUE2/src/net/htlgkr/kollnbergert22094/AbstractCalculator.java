@@ -13,8 +13,8 @@ public abstract class AbstractCalculator {
         this.divide = divide;
     }
 
-    public abstract java.lang.Number add(java.lang.Number a, java.lang.Number b);
-    public abstract java.lang.Number substract(java.lang.Number a, java.lang.Number b);
-    public abstract java.lang.Number multiply(java.lang.Number a, java.lang.Number b);
-    public abstract java.lang.Number divide(java.lang.Number a, java.lang.Number b);
+    public abstract Number add(Number a, Number b);
+    public abstract Number substract(Number a, Number b);
+    public abstract Number multiply(Number a, Number b);
+    public abstract Number divide(Number a, Number b);
 }

@@ -1,6 +1,6 @@
 package net.htlgkr.kollnbergert22094;
 
-public class EratosthenesPrimeSieve implements PrimeSieve{
+public class EratosthenesPrimeSieve implements PrimeSieve {
     private final Boolean[] primeNumberArray;
 
     public EratosthenesPrimeSieve(int limit) {

@@ -6,7 +6,6 @@ import java.io.InputStreamReader;
 
 public class Main {
     public static void main(String[] args) {
-
         try {
             NumberTester numberTester = new NumberTester("test_csv");
             numberTester.setOddEvenTester(number -> !(number % 2 == 0));
